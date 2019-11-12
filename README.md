@@ -5,7 +5,7 @@ Este proyecto utiliza las librerias de bootstrap, react-bootstrap y md5. Para ej
 
 Pararse en la carpeta raiz del proyecto y ejecutar:
 
-npm install
-npm run build
-cd build
-http-server -o
+- npm install
+- npm run build
+- cd build
+- http-server -o
